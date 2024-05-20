@@ -1,0 +1,31 @@
+{
+  "patients": [
+    {
+      "id": "00000001",
+      "name": "James Bond",
+      "gender": "Male",
+      "dateOfBirth": "1/1/1950",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/3/2021/09/daniel-craig-007.jpg-303a730.png",
+      "medicalHistory": "James Bond's Medical History ...",
+      "treatmentHistory": "James Bond's Treatment History ..."
+    },
+    {
+      "id": "00000002",
+      "name": "Superman",
+      "gender": "Male",
+      "dateOfBirth": "1/1/1940",
+      "imageUrl": "https://ew.com/thmb/IWTSy6GrKCmZBSIcZwC84oHmNdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mos-10175c_2-2000-116d947875b84ddcabb01baa1fa1b389.jpg",
+      "medicalHistory": "Superman's Medical History ...",
+      "treatmentHistory": "Superman's Treatment History ..."
+    },
+    {
+      "id": "00000003",
+      "name": "Black Widow",
+      "gender": "Female",
+      "dateOfBirth": "1/1/1980",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Jgy1tfvcL._AC_UF1000,1000_QL80_.jpg",
+      "medicalHistory": "Black Widow's Medical History ...",
+      "treatmentHistory": "Black Widow's Treatment History ..."
+    }
+  ]
+}

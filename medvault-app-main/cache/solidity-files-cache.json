@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\projects\\blockchain\\medvault-app\\contracts\\MedVaultRecords.sol": {
+      "lastModificationDate": 1715352178456,
+      "contentHash": "fd8ef70a7ff66a8c051bbc3900bebe01",
+      "sourceName": "contracts/MedVaultRecords.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "MedVaultRecords"
+      ]
+    }
+  }
+}
